@@ -11,7 +11,7 @@ let cc2;
 
 let userGenned = userGen();
 //let addBal = balBut();
-
+//Hey Everyone!!
 //let newGen;
 
 //Get random cards.
